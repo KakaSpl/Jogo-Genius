@@ -12,6 +12,4 @@
 Jogo consiste em acertar a sequência de cores dadas pela máquina. A cada nível aumenta uma cor.
 
 
-Link para jogar: https://codepen.io/kakaspl/full/wveNVJq
-
-<a href="https://codepen.io/kakaspl/full/wveNVJq" target="_blank">Hello, world!</a>
+<a href="https://codepen.io/kakaspl/full/wveNVJq" target="_blank">Clique aqui para Jogar</a>
